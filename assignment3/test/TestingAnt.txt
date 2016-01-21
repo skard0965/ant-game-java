@@ -1,0 +1,405 @@
+#############################
+## Shadi Kardan #100734177 ##
+#############################
+
+==================    TEST FORAGE    ===========================
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant died in a horrible accident.
+health: 0
+foodFound: 0
+----------------------------------------------------------------
+Ant finds 3 food!
+health: 10
+foodFound: 3
+----------------------------------------------------------------
+Ant finds 5 food!
+health: 10
+foodFound: 5
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant finds 5 food!
+health: 10
+foodFound: 5
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant finds 2 food!
+health: 10
+foodFound: 2
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant finds 5 food!
+health: 10
+foodFound: 5
+----------------------------------------------------------------
+Ant found sweet nectar! Health is now 10 and ant found 10 foods! 
+health: 10
+foodFound: 10
+----------------------------------------------------------------
+Ant finds 2 food!
+health: 10
+foodFound: 2
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant found sweet nectar! Health is now 10 and ant found 10 foods! 
+health: 10
+foodFound: 10
+----------------------------------------------------------------
+Ant finds 1 food!
+health: 10
+foodFound: 1
+----------------------------------------------------------------
+Ant died in a horrible accident.
+health: 0
+foodFound: 0
+----------------------------------------------------------------
+Ant died in a horrible accident.
+health: 0
+foodFound: 0
+----------------------------------------------------------------
+Ant died in a horrible accident.
+health: 0
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant finds 3 food!
+health: 10
+foodFound: 3
+----------------------------------------------------------------
+Ant finds 4 food!
+health: 10
+foodFound: 4
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant died in a horrible accident.
+health: 0
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant finds 2 food!
+health: 10
+foodFound: 2
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant finds 1 food!
+health: 10
+foodFound: 1
+----------------------------------------------------------------
+Ant finds 2 food!
+health: 10
+foodFound: 2
+----------------------------------------------------------------
+Ant died in a horrible accident.
+health: 0
+foodFound: 0
+----------------------------------------------------------------
+Ant finds 2 food!
+health: 10
+foodFound: 2
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant finds 1 food!
+health: 10
+foodFound: 1
+----------------------------------------------------------------
+Ant finds 5 food!
+health: 10
+foodFound: 5
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant found sweet nectar! Health is now 10 and ant found 10 foods! 
+health: 10
+foodFound: 10
+----------------------------------------------------------------
+Ant finds 3 food!
+health: 10
+foodFound: 3
+----------------------------------------------------------------
+Ant finds 5 food!
+health: 10
+foodFound: 5
+----------------------------------------------------------------
+Ant found sweet nectar! Health is now 10 and ant found 10 foods! 
+health: 10
+foodFound: 10
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant died in a horrible accident.
+health: 0
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant found sweet nectar! Health is now 10 and ant found 10 foods! 
+health: 10
+foodFound: 10
+----------------------------------------------------------------
+Ant died in a horrible accident.
+health: 0
+foodFound: 0
+----------------------------------------------------------------
+Ant finds 4 food!
+health: 10
+foodFound: 4
+----------------------------------------------------------------
+Ant died in a horrible accident.
+health: 0
+foodFound: 0
+----------------------------------------------------------------
+Ant died in a horrible accident.
+health: 0
+foodFound: 0
+----------------------------------------------------------------
+Ant found sweet nectar! Health is now 10 and ant found 10 foods! 
+health: 10
+foodFound: 10
+----------------------------------------------------------------
+Ant finds 4 food!
+health: 10
+foodFound: 4
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant finds 3 food!
+health: 10
+foodFound: 3
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant finds 2 food!
+health: 10
+foodFound: 2
+----------------------------------------------------------------
+Ant finds 4 food!
+health: 10
+foodFound: 4
+----------------------------------------------------------------
+Ant finds 5 food!
+health: 10
+foodFound: 5
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant finds 5 food!
+health: 10
+foodFound: 5
+----------------------------------------------------------------
+Ant finds 2 food!
+health: 10
+foodFound: 2
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant finds 2 food!
+health: 10
+foodFound: 2
+----------------------------------------------------------------
+Ant died in a horrible accident.
+health: 0
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant finds 5 food!
+health: 10
+foodFound: 5
+----------------------------------------------------------------
+Ant finds 3 food!
+health: 10
+foodFound: 3
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant died in a horrible accident.
+health: 0
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant finds 4 food!
+health: 10
+foodFound: 4
+----------------------------------------------------------------
+Ant finds 4 food!
+health: 10
+foodFound: 4
+----------------------------------------------------------------
+Ant finds 3 food!
+health: 10
+foodFound: 3
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant finds 1 food!
+health: 10
+foodFound: 1
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant finds 3 food!
+health: 10
+foodFound: 3
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant finds 4 food!
+health: 10
+foodFound: 4
+----------------------------------------------------------------
+Ant returns empty handed.
+health: 10
+foodFound: 0
+----------------------------------------------------------------
+Ant died in a horrible accident.
+health: 0
+foodFound: 0
+----------------------------------------------------------------

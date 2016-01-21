@@ -1,0 +1,2154 @@
+#############################
+## Shadi Kardan #100734177 ##
+#############################
+ 
+=================================================
+Your colony has 0 ant and 10 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+No worker, nothing to do.
+
+=================================================
+Your colony has 0 ant and 10 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> a
+Error: a is not an integer
+Invalid input. Please enter either 1 or 0.
+
+=================================================
+Your colony has 0 ant and 10 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) finds 3 food!
+
+=================================================
+Your colony has 1 ant and 7 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #1 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 2 ant and 10 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) died in a horrible accident.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) died in a horrible accident.
+
+=================================================
+Your colony has 1 ant and 4 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 5 food!
+
+=================================================
+Your colony has 1 ant and 8 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #1 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 2 ant and 11 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) died in a horrible accident.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 2 ant and 4 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Your colony doesn't have enough food to breed a worker!
+
+Step results:
+Ant #0 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #1 (H: 10) died in a horrible accident.
+
+=================================================
+Your colony has 1 ant and 13 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 2 ant and 6 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 9) returns empty handed.
+Ant #2 (H: 9) finds 2 food!
+
+=================================================
+Your colony has 3 ant and 2 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 5 food!
+Ant #1 (H: 9) returns empty handed.
+Ant #2 (H: 8) returns empty handed.
+
+=================================================
+Your colony has 3 ant and 5 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 5 food!
+Ant #1 (H: 9) finds 2 food!
+Ant #2 (H: 8) returns empty handed.
+
+=================================================
+Your colony has 3 ant and 9 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 9) returns empty handed.
+Ant #2 (H: 8) finds 5 food!
+Ant #3 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 4 ant and 5 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 9) finds 3 food!
+Ant #1 (H: 8) finds 2 food!
+Ant #2 (H: 7) returns empty handed.
+Ant #3 (H: 9) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #4 (H: 9) died in a horrible accident.
+
+=================================================
+Your colony has 4 ant and 16 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 9) returns empty handed.
+Ant #1 (H: 8) returns empty handed.
+Ant #2 (H: 7) finds 4 food!
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 5 ant and 10 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 9) finds 1 food!
+Ant #1 (H: 8) returns empty handed.
+Ant #2 (H: 7) returns empty handed.
+Ant #3 (H: 10) finds 3 food!
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 9) returns empty handed.
+
+=================================================
+Your colony has 6 ant and 4 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 9) returns empty handed.
+Ant #1 (H: 8) returns empty handed.
+Ant #2 (H: 7) finds 3 food!
+Ant #3 (H: 10) finds 1 food!
+Ant #4 (H: 9) finds 2 food!
+Ant #5 (H: 8) returns empty handed.
+
+=================================================
+Your colony has 6 ant and 6 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 9) finds 4 food!
+Ant #1 (H: 7) returns empty handed.
+Ant #2 (H: 6) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #3 (H: 9) returns empty handed.
+Ant #4 (H: 8) returns empty handed.
+Ant #5 (H: 7) returns empty handed.
+Ant #6 (H: 9) finds 4 food!
+
+=================================================
+Your colony has 7 ant and 18 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 9) finds 4 food!
+Ant #1 (H: 7) returns empty handed.
+Ant #2 (H: 10) finds 4 food!
+Ant #3 (H: 9) returns empty handed.
+Ant #4 (H: 8) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #5 (H: 7) finds 5 food!
+Ant #6 (H: 9) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #7 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 8 ant and 38 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 9) returns empty handed.
+Ant #1 (H: 7) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 9) finds 5 food!
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 7) finds 5 food!
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 9 ant and 34 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 9) finds 5 food!
+Ant #1 (H: 7) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 9) returns empty handed.
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 7) returns empty handed.
+Ant #6 (H: 10) finds 4 food!
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) died in a horrible accident.
+Ant #9 (H: 10) died in a horrible accident.
+
+=================================================
+Your colony has 8 ant and 30 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 9) returns empty handed.
+Ant #1 (H: 7) finds 2 food!
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 9) returns empty handed.
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 7) returns empty handed.
+Ant #6 (H: 10) finds 5 food!
+Ant #7 (H: 10) died in a horrible accident.
+Ant #8 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 8 ant and 24 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 9) died in a horrible accident.
+Ant #1 (H: 7) finds 1 food!
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 9) returns empty handed.
+Ant #4 (H: 10) finds 5 food!
+Ant #5 (H: 7) returns empty handed.
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) finds 2 food!
+
+=================================================
+Your colony has 8 ant and 19 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 7) finds 3 food!
+Ant #1 (H: 10) finds 2 food!
+Ant #2 (H: 9) returns empty handed.
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 7) returns empty handed.
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) died in a horrible accident.
+Ant #7 (H: 10) finds 4 food!
+Ant #8 (H: 10) finds 1 food!
+
+=================================================
+Your colony has 8 ant and 16 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 7) returns empty handed.
+Ant #1 (H: 10) finds 2 food!
+Ant #2 (H: 9) finds 1 food!
+Ant #3 (H: 10) finds 4 food!
+Ant #4 (H: 7) finds 4 food!
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) died in a horrible accident.
+Ant #7 (H: 10) finds 4 food!
+Ant #8 (H: 10) died in a horrible accident.
+
+=================================================
+Your colony has 7 ant and 19 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 7) returns empty handed.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 9) returns empty handed.
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 7) returns empty handed.
+Ant #5 (H: 10) finds 5 food!
+Ant #6 (H: 10) finds 3 food!
+Ant #7 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 8 ant and 14 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 7) finds 1 food!
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 9) died in a horrible accident.
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 7) finds 3 food!
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) finds 3 food!
+Ant #7 (H: 10) died in a horrible accident.
+Ant #8 (H: 10) finds 1 food!
+
+=================================================
+Your colony has 7 ant and 10 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 7) returns empty handed.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 7) finds 4 food!
+Ant #4 (H: 10) died in a horrible accident.
+Ant #5 (H: 9) returns empty handed.
+Ant #6 (H: 9) returns empty handed.
+Ant #7 (H: 9) returns empty handed.
+
+=================================================
+Your colony has 7 ant and 5 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 6) finds 1 food!
+Ant #1 (H: 9) returns empty handed.
+Ant #2 (H: 9) finds 4 food!
+Ant #3 (H: 6) returns empty handed.
+Ant #4 (H: 8) died in a horrible accident.
+Ant #5 (H: 8) returns empty handed.
+Ant #6 (H: 8) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #7 (H: 9) returns empty handed.
+
+=================================================
+Your colony has 7 ant and 16 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 6) died in a horrible accident.
+Ant #1 (H: 9) finds 1 food!
+Ant #2 (H: 9) finds 3 food!
+Ant #3 (H: 6) returns empty handed.
+Ant #4 (H: 8) returns empty handed.
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 9) returns empty handed.
+Ant #7 (H: 10) finds 5 food!
+
+=================================================
+Your colony has 7 ant and 13 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 9) returns empty handed.
+Ant #1 (H: 9) returns empty handed.
+Ant #2 (H: 6) died in a horrible accident.
+Ant #3 (H: 8) returns empty handed.
+Ant #4 (H: 10) finds 4 food!
+Ant #5 (H: 9) finds 1 food!
+Ant #6 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #7 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 7 ant and 16 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 9) returns empty handed.
+Ant #1 (H: 9) returns empty handed.
+Ant #2 (H: 8) died in a horrible accident.
+Ant #3 (H: 10) finds 5 food!
+Ant #4 (H: 9) returns empty handed.
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) finds 5 food!
+
+=================================================
+Your colony has 7 ant and 14 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 9) returns empty handed.
+Ant #1 (H: 9) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 9) returns empty handed.
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) finds 5 food!
+Ant #6 (H: 10) finds 5 food!
+Ant #7 (H: 10) died in a horrible accident.
+
+=================================================
+Your colony has 7 ant and 12 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 9) returns empty handed.
+Ant #1 (H: 9) returns empty handed.
+Ant #2 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #3 (H: 9) returns empty handed.
+Ant #4 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #5 (H: 10) finds 2 food!
+Ant #6 (H: 10) finds 5 food!
+Ant #7 (H: 9) found sweet nectar! Health is now 10 and ant found 10 foods! 
+
+=================================================
+Your colony has 8 ant and 37 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 9) returns empty handed.
+Ant #1 (H: 9) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 9) returns empty handed.
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) finds 2 food!
+Ant #7 (H: 10) finds 4 food!
+Ant #8 (H: 10) finds 2 food!
+
+=================================================
+Your colony has 9 ant and 31 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 9) died in a horrible accident.
+Ant #1 (H: 9) returns empty handed.
+Ant #2 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #3 (H: 9) returns empty handed.
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) died in a horrible accident.
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) returns empty handed.
+Ant #9 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 8 ant and 28 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 9) returns empty handed.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 9) returns empty handed.
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) finds 3 food!
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) finds 4 food!
+
+=================================================
+Your colony has 9 ant and 21 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 9) died in a horrible accident.
+Ant #1 (H: 10) finds 3 food!
+Ant #2 (H: 9) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) finds 5 food!
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) finds 2 food!
+Ant #8 (H: 10) finds 1 food!
+Ant #9 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+
+=================================================
+Your colony has 9 ant and 38 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) finds 1 food!
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) finds 1 food!
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #5 (H: 10) finds 5 food!
+Ant #6 (H: 10) died in a horrible accident.
+Ant #7 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #8 (H: 10) finds 2 food!
+Ant #9 (H: 10) finds 1 food!
+
+=================================================
+Your colony has 9 ant and 54 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) finds 2 food!
+Ant #9 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 10 ant and 51 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) died in a horrible accident.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) returns empty handed.
+Ant #9 (H: 10) returns empty handed.
+Ant #10 (H: 10) finds 3 food!
+
+=================================================
+Your colony has 10 ant and 39 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) finds 2 food!
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) finds 3 food!
+Ant #9 (H: 10) returns empty handed.
+Ant #10 (H: 10) died in a horrible accident.
+
+=================================================
+Your colony has 10 ant and 39 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) finds 2 food!
+Ant #1 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #2 (H: 10) finds 5 food!
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) finds 2 food!
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) returns empty handed.
+Ant #9 (H: 10) returns empty handed.
+Ant #10 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 11 ant and 42 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) finds 1 food!
+Ant #1 (H: 10) died in a horrible accident.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) finds 4 food!
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) finds 5 food!
+Ant #9 (H: 10) returns empty handed.
+Ant #10 (H: 10) returns empty handed.
+Ant #11 (H: 10) finds 5 food!
+
+=================================================
+Your colony has 11 ant and 41 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) finds 5 food!
+Ant #5 (H: 10) finds 1 food!
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) finds 5 food!
+Ant #8 (H: 10) finds 3 food!
+Ant #9 (H: 10) finds 5 food!
+Ant #10 (H: 10) finds 1 food!
+Ant #11 (H: 10) finds 4 food!
+
+=================================================
+Your colony has 12 ant and 48 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) finds 4 food!
+Ant #2 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #3 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) returns empty handed.
+Ant #9 (H: 10) returns empty handed.
+Ant #10 (H: 10) returns empty handed.
+Ant #11 (H: 10) returns empty handed.
+Ant #12 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 13 ant and 54 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) finds 2 food!
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) finds 4 food!
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) returns empty handed.
+Ant #9 (H: 10) finds 4 food!
+Ant #10 (H: 10) returns empty handed.
+Ant #11 (H: 10) returns empty handed.
+Ant #12 (H: 10) returns empty handed.
+Ant #13 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 14 ant and 45 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) finds 5 food!
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) finds 2 food!
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) returns empty handed.
+Ant #9 (H: 10) finds 4 food!
+Ant #10 (H: 10) finds 2 food!
+Ant #11 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #12 (H: 10) returns empty handed.
+Ant #13 (H: 10) finds 4 food!
+Ant #14 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 15 ant and 52 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) finds 4 food!
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) finds 1 food!
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) finds 5 food!
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) returns empty handed.
+Ant #9 (H: 10) returns empty handed.
+Ant #10 (H: 10) returns empty handed.
+Ant #11 (H: 10) returns empty handed.
+Ant #12 (H: 10) returns empty handed.
+Ant #13 (H: 10) returns empty handed.
+Ant #14 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #15 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 16 ant and 51 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) finds 1 food!
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) finds 1 food!
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) died in a horrible accident.
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) finds 3 food!
+Ant #9 (H: 10) returns empty handed.
+Ant #10 (H: 10) finds 3 food!
+Ant #11 (H: 10) finds 5 food!
+Ant #12 (H: 10) finds 4 food!
+Ant #13 (H: 10) returns empty handed.
+Ant #14 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #15 (H: 10) returns empty handed.
+Ant #16 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+
+=================================================
+Your colony has 16 ant and 67 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) finds 5 food!
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) finds 4 food!
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) returns empty handed.
+Ant #9 (H: 10) returns empty handed.
+Ant #10 (H: 10) finds 5 food!
+Ant #11 (H: 10) finds 2 food!
+Ant #12 (H: 10) died in a horrible accident.
+Ant #13 (H: 10) finds 3 food!
+Ant #14 (H: 10) returns empty handed.
+Ant #15 (H: 10) returns empty handed.
+Ant #16 (H: 10) finds 3 food!
+
+=================================================
+Your colony has 16 ant and 68 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) died in a horrible accident.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) died in a horrible accident.
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) finds 5 food!
+Ant #8 (H: 10) returns empty handed.
+Ant #9 (H: 10) finds 2 food!
+Ant #10 (H: 10) returns empty handed.
+Ant #11 (H: 10) returns empty handed.
+Ant #12 (H: 10) died in a horrible accident.
+Ant #13 (H: 10) returns empty handed.
+Ant #14 (H: 10) finds 4 food!
+Ant #15 (H: 10) returns empty handed.
+Ant #16 (H: 10) finds 4 food!
+
+=================================================
+Your colony has 14 ant and 64 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) died in a horrible accident.
+Ant #1 (H: 10) finds 5 food!
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #4 (H: 10) finds 4 food!
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) finds 3 food!
+Ant #9 (H: 10) returns empty handed.
+Ant #10 (H: 10) finds 1 food!
+Ant #11 (H: 10) finds 3 food!
+Ant #12 (H: 10) finds 3 food!
+Ant #13 (H: 10) returns empty handed.
+Ant #14 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 14 ant and 74 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) finds 5 food!
+Ant #1 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) finds 4 food!
+Ant #5 (H: 10) finds 4 food!
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) finds 5 food!
+Ant #8 (H: 10) returns empty handed.
+Ant #9 (H: 10) finds 5 food!
+Ant #10 (H: 10) returns empty handed.
+Ant #11 (H: 10) returns empty handed.
+Ant #12 (H: 10) finds 4 food!
+Ant #13 (H: 10) returns empty handed.
+Ant #14 (H: 10) finds 1 food!
+
+=================================================
+Your colony has 15 ant and 92 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) finds 4 food!
+Ant #4 (H: 10) finds 1 food!
+Ant #5 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) died in a horrible accident.
+Ant #8 (H: 10) died in a horrible accident.
+Ant #9 (H: 10) returns empty handed.
+Ant #10 (H: 10) returns empty handed.
+Ant #11 (H: 10) died in a horrible accident.
+Ant #12 (H: 10) returns empty handed.
+Ant #13 (H: 10) returns empty handed.
+Ant #14 (H: 10) died in a horrible accident.
+Ant #15 (H: 10) died in a horrible accident.
+
+=================================================
+Your colony has 11 ant and 91 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) died in a horrible accident.
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) finds 3 food!
+Ant #5 (H: 10) finds 2 food!
+Ant #6 (H: 10) finds 4 food!
+Ant #7 (H: 10) finds 5 food!
+Ant #8 (H: 10) returns empty handed.
+Ant #9 (H: 10) finds 3 food!
+Ant #10 (H: 10) finds 5 food!
+Ant #11 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 11 ant and 97 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) finds 1 food!
+Ant #1 (H: 10) finds 3 food!
+Ant #2 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) died in a horrible accident.
+Ant #6 (H: 10) died in a horrible accident.
+Ant #7 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #8 (H: 10) returns empty handed.
+Ant #9 (H: 10) died in a horrible accident.
+Ant #10 (H: 10) finds 4 food!
+Ant #11 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 9 ant and 111 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) died in a horrible accident.
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) finds 4 food!
+Ant #8 (H: 10) finds 2 food!
+Ant #9 (H: 10) finds 2 food!
+
+=================================================
+Your colony has 9 ant and 105 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) finds 2 food!
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) died in a horrible accident.
+Ant #3 (H: 10) finds 2 food!
+Ant #4 (H: 10) finds 3 food!
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) returns empty handed.
+Ant #9 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 9 ant and 98 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) finds 2 food!
+Ant #2 (H: 10) died in a horrible accident.
+Ant #3 (H: 10) died in a horrible accident.
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) finds 2 food!
+Ant #9 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 8 ant and 99 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 9 ant and 85 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) finds 3 food!
+Ant #3 (H: 10) finds 3 food!
+Ant #4 (H: 10) finds 5 food!
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) finds 4 food!
+Ant #8 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #9 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 10 ant and 95 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) finds 5 food!
+Ant #6 (H: 10) died in a horrible accident.
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) finds 1 food!
+Ant #9 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 9 ant and 92 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) finds 2 food!
+Ant #3 (H: 10) finds 4 food!
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) finds 3 food!
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 9 ant and 92 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) finds 5 food!
+Ant #2 (H: 10) finds 2 food!
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) finds 3 food!
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) finds 5 food!
+Ant #7 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #8 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 9 ant and 108 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 2 food!
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) died in a horrible accident.
+Ant #3 (H: 10) finds 4 food!
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #6 (H: 10) finds 3 food!
+Ant #7 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #8 (H: 10) died in a horrible accident.
+
+=================================================
+Your colony has 7 ant and 130 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) died in a horrible accident.
+Ant #3 (H: 10) finds 5 food!
+Ant #4 (H: 10) died in a horrible accident.
+Ant #5 (H: 10) finds 5 food!
+Ant #6 (H: 10) finds 1 food!
+
+=================================================
+Your colony has 5 ant and 136 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) died in a horrible accident.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 4 ant and 132 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #1 (H: 10) died in a horrible accident.
+Ant #2 (H: 10) finds 1 food!
+Ant #3 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 3 ant and 140 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) finds 1 food!
+Ant #2 (H: 10) finds 4 food!
+
+=================================================
+Your colony has 3 ant and 142 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 3 food!
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 3 ant and 142 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 5 food!
+Ant #1 (H: 10) finds 3 food!
+Ant #2 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 3 ant and 147 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) died in a horrible accident.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) died in a horrible accident.
+
+=================================================
+Your colony has 1 ant and 146 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 1 ant and 145 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+
+=================================================
+Your colony has 1 ant and 154 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 5 food!
+
+=================================================
+Your colony has 1 ant and 158 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) died in a horrible accident.
+
+=================================================
+Your colony has 0 ant and 158 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+No worker, nothing to do.
+
+=================================================
+Your colony has 0 ant and 158 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 1 ant and 152 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) finds 5 food!
+Ant #1 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 2 ant and 150 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) finds 2 food!
+Ant #2 (H: 10) died in a horrible accident.
+
+=================================================
+Your colony has 2 ant and 145 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) finds 4 food!
+Ant #2 (H: 10) finds 5 food!
+
+=================================================
+Your colony has 3 ant and 146 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) finds 4 food!
+Ant #1 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #2 (H: 10) finds 5 food!
+Ant #3 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 4 ant and 156 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) finds 3 food!
+Ant #1 (H: 10) finds 4 food!
+Ant #2 (H: 10) finds 2 food!
+Ant #3 (H: 10) finds 2 food!
+Ant #4 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 5 ant and 157 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) finds 5 food!
+Ant #3 (H: 10) finds 2 food!
+Ant #4 (H: 10) finds 3 food!
+Ant #5 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 6 ant and 156 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) finds 1 food!
+Ant #1 (H: 10) finds 4 food!
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) finds 1 food!
+Ant #5 (H: 10) died in a horrible accident.
+Ant #6 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 6 ant and 151 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) finds 2 food!
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) finds 5 food!
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) died in a horrible accident.
+Ant #6 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 6 ant and 147 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #1 (H: 10) finds 1 food!
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) finds 1 food!
+
+=================================================
+Your colony has 7 ant and 147 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) finds 3 food!
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) died in a horrible accident.
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) finds 2 food!
+Ant #7 (H: 10) finds 2 food!
+
+=================================================
+Your colony has 7 ant and 152 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) finds 2 food!
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 8 ant and 141 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) finds 2 food!
+Ant #2 (H: 10) finds 5 food!
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) died in a horrible accident.
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) finds 5 food!
+Ant #7 (H: 10) returns empty handed.
+Ant #8 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 8 ant and 140 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) finds 3 food!
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) died in a horrible accident.
+Ant #3 (H: 10) died in a horrible accident.
+Ant #4 (H: 10) finds 2 food!
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) finds 2 food!
+Ant #8 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 7 ant and 135 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) finds 5 food!
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) died in a horrible accident.
+Ant #7 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 7 ant and 128 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) died in a horrible accident.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) finds 2 food!
+Ant #4 (H: 10) finds 1 food!
+Ant #5 (H: 10) finds 3 food!
+Ant #6 (H: 10) returns empty handed.
+Ant #7 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+
+=================================================
+Your colony has 7 ant and 132 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) finds 3 food!
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) finds 2 food!
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) finds 2 food!
+Ant #7 (H: 10) finds 1 food!
+
+=================================================
+Your colony has 8 ant and 127 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) finds 5 food!
+Ant #4 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #5 (H: 10) finds 3 food!
+Ant #6 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #7 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 8 ant and 147 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) finds 4 food!
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) finds 3 food!
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) finds 2 food!
+Ant #6 (H: 10) finds 2 food!
+Ant #7 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 8 ant and 150 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) died in a horrible accident.
+Ant #2 (H: 10) finds 5 food!
+Ant #3 (H: 10) finds 4 food!
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) finds 1 food!
+Ant #6 (H: 10) finds 5 food!
+Ant #7 (H: 10) finds 1 food!
+
+=================================================
+Your colony has 7 ant and 159 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) finds 5 food!
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) returns empty handed.
+Ant #4 (H: 10) died in a horrible accident.
+Ant #5 (H: 10) returns empty handed.
+Ant #6 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 6 ant and 158 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) died in a horrible accident.
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) finds 3 food!
+Ant #3 (H: 10) finds 3 food!
+Ant #4 (H: 10) returns empty handed.
+Ant #5 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 5 ant and 159 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 3 food!
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) died in a horrible accident.
+Ant #4 (H: 10) finds 1 food!
+
+=================================================
+Your colony has 4 ant and 159 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 2 food!
+Ant #1 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+Ant #2 (H: 10) returns empty handed.
+Ant #3 (H: 10) finds 3 food!
+
+=================================================
+Your colony has 4 ant and 170 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 1 food!
+Ant #1 (H: 10) returns empty handed.
+Ant #2 (H: 10) died in a horrible accident.
+Ant #3 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 3 ant and 168 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+Ant #1 (H: 10) died in a horrible accident.
+Ant #2 (H: 10) died in a horrible accident.
+
+=================================================
+Your colony has 1 ant and 167 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 1 ant and 166 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 2 food!
+
+=================================================
+Your colony has 1 ant and 167 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 4 food!
+
+=================================================
+Your colony has 1 ant and 170 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 1 ant and 169 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 4 food!
+
+=================================================
+Your colony has 1 ant and 172 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 1 ant and 171 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 1 ant and 170 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 1 ant and 169 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 1 ant and 168 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 1 food!
+
+=================================================
+Your colony has 1 ant and 168 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 1 ant and 167 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 3 food!
+
+=================================================
+Your colony has 1 ant and 169 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 1 ant and 168 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 1 food!
+
+=================================================
+Your colony has 1 ant and 168 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 5 food!
+
+=================================================
+Your colony has 1 ant and 172 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 1 food!
+
+=================================================
+Your colony has 1 ant and 172 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 3 food!
+
+=================================================
+Your colony has 1 ant and 174 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 1 food!
+
+=================================================
+Your colony has 1 ant and 174 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 1 ant and 173 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 5 food!
+
+=================================================
+Your colony has 1 ant and 177 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+
+=================================================
+Your colony has 1 ant and 186 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 1 ant and 185 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) found sweet nectar! Health is now 10 and ant found 10 foods! 
+
+=================================================
+Your colony has 1 ant and 194 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 1 ant and 193 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 1 ant and 192 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) died in a horrible accident.
+
+=================================================
+Your colony has 0 ant and 192 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+No worker, nothing to do.
+
+=================================================
+Your colony has 0 ant and 192 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+No worker, nothing to do.
+
+=================================================
+Your colony has 0 ant and 192 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 
+Error:  is not an integer
+Invalid input. Please enter either 1 or 0.
+
+=================================================
+Your colony has 0 ant and 192 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+No worker, nothing to do.

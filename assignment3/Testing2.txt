@@ -1,0 +1,99 @@
+#############################
+## Shadi Kardan #100734177 ##
+#############################
+
+=================================================
+Your colony has 0 ant and 10 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> q
+Error: q is not an integer
+Invalid input. Please enter either 1 or 0.
+
+=================================================
+Your colony has 0 ant and 10 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+No worker, nothing to do.
+
+=================================================
+Your colony has 0 ant and 10 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 1 ant and 4 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 1 ant and 3 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 1 ant and 2 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) returns empty handed.
+
+=================================================
+Your colony has 1 ant and 1 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 4 food!
+
+=================================================
+Your colony has 1 ant and 4 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 0
+
+Step results:
+Ant #0 (H: 10) finds 5 food!
+
+=================================================
+Your colony has 1 ant and 8 food, Your Majesty.
+What would you like to do?
+0. Do nothing
+1. Breed worker (costs 5 food)
+> 1
+
+Breeding worker...
+
+Step results:
+Ant #0 (H: 10) died in a horrible accident.
+Ant #1 (H: 10) died in a horrible accident.
+
+
+There is not enough food or ant to continue. Game over.

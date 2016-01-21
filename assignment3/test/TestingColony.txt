@@ -1,0 +1,41 @@
+#############################
+## Shadi Kardan #100734177 ##
+#############################
+
+=== TEST PURGE ===
+Before purge: [ 0:7 1:0 2:4 3:0 4:9 ]
+foodAmount: 0
+numWorkers: 5
+After purge: [ 0:7 1:4 2:9 ]
+foodAmount: 2
+numWorkers: 3
+=== TEST PURGE ===
+Before purge: [ 0:7 1:0 2:4 3:0 4:null 5:9 6:0 7:null 8:3 ]
+foodAmount: 0
+numWorkers: 9
+After purge: [ 0:7 1:4 2:9 3:3 ]
+foodAmount: 5
+numWorkers: 4
+=== TEST STEP ===
+Before step: [ 0:7 1:0 2:4 3:0 4:9 ]
+foodAmount: 0
+numWorkers: 5
+
+Step results:
+Ant #0 (H: 6) finds 2 food!
+Ant #1 (H: 3) returns empty handed.
+Ant #2 (H: 8) found sweet nectar! Health is now 10 and ant found 10 foods! 
+
+After step: [ 0:6 1:3 2:10 ]
+foodAmount: 14
+numWorkers: 3
+=== TEST TOO MANY ANTS FOR BREEDING WORKER ===
+
+Breeding worker...
+Worker Ants reached the maximum of 100 ants...
+=== TEST CANNOT PLAY ===
+
+There is not enough food or ant to continue. Game over.
+=== TEST LAST ANT JUST DIED ===
+Last ant just died.
+
